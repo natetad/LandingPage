@@ -108,16 +108,58 @@ body {
     text-align: center;
   }
 
-  .cards .boxes {
+  .cards .boxes .box1{
     display: inline-block;
     border: 2px solid #3882F6;
     border-radius: 10px;
     padding: 6px;
-    height: 60px;
-    width: 60px;
+    height: 80px;
+    width: 80px;
     position: relative;
     top: -450px;
-    
+  }
+
+  .cards .boxes .box2{
+    display: inline-block;
+    border: 2px solid #3882F6;
+    border-radius: 10px;
+    padding: 6px;
+    height: 80px;
+    width: 80px;
+    position: relative;
+    top: -450px;
+  }
+
+  .cards .boxes .box3{
+    display: inline-block;
+    border: 2px solid #3882F6;
+    border-radius: 10px;
+    padding: 6px;
+    height: 80px;
+    width: 80px;
+    position: relative;
+    top: -450px;
+  }
+
+  .cards .boxes .box4{
+    display: inline-block;
+    border: 2px solid #3882F6;
+    border-radius: 10px;
+    padding: 6px;
+    height: 80px;
+    width: 80px;
+    position: relative;
+    top: -450px;
+  }
+
+  .cards .s1 {
+    display: flex;
+    position: relative;
+    top: -400px;
+    left: 770px;
+    font-size: 10px;
+    border: 2px solid black;
+    width: 90px;
   }
  /*
  WHAT I STOPPED ON WAS SEEING DIFFERENCE BETWEEN .header.middle.middle-1.title and just .title seems like
